@@ -68,6 +68,8 @@ remaining is refunded to the customer. If the booking status is Checked Out/No s
 Data Modelling:
 This is the data modelling that has been established among the tables in Power BI.
 
+Data Modelling
+
 ![WhatsApp Image 2024-07-16 at 1 53 30 PM (1)](https://github.com/user-attachments/assets/54b346f7-2a5a-4704-985a-a95744f308ba)
 
 Dasboard Creation
